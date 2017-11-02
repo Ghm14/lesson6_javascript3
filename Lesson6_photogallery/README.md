@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 1st, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Gavin McGuinness)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment had us add code to two different existing files, allowing us to add more available images to the photo gallery app.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/Ghm14/lesson6_javascript3)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Dynamic HTML allows you to change the content of a webpage without reloading it. It is a combination of HTML, CSS, and Javascript.)
+2. (Each item in the DOM tree is a node. The most commonly used nodes are element, attribute, and text content nodes.)
+3. (The location object allows changes to a new webpage from within the javascript code.)
